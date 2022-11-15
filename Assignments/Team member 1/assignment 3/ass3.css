@@ -1,0 +1,13 @@
+body{
+background:aquamarine;
+font-style: bold;
+background-image: url("images.jfif");
+background-size: 100%;
+}
+h1{
+    
+    align-items: center;
+    }
+.container{
+    padding: auto;
+}
